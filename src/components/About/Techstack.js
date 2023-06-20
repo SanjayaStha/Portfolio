@@ -8,11 +8,9 @@ import {
   DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
-  DiAws
+  DiJava
 } from "react-icons/di";
 import {
-  SiPytorch,
   SiFirebase,
   SiNextdotjs,
 } from "react-icons/si";
