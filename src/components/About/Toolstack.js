@@ -5,8 +5,11 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiHeroku,
-  SiVercel,
+  SiVercel
 } from "react-icons/si";
+import {
+  DiAws
+} from "react-icons/di";
 
 function Toolstack() {
   return (
@@ -24,7 +27,7 @@ function Toolstack() {
         <SiVercel />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <DiAws />
       </Col>
     </Row>
   );
